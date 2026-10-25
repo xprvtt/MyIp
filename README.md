@@ -1,7 +1,7 @@
 App MyIp
 
 <details>
-  <summary>Inventory</summary>
+  <summary>Image</summary>
   
 ![img](https://github.com/xprvtt/MyIp/blob/master/Github%20Assets/notification.png)
 
